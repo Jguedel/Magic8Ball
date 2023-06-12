@@ -1,0 +1,14 @@
+.msgCircle {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin: auto;
+  width: 500px;
+  height: 500px;
+  font-size: 50px;
+  border-radius: 50%;
+}
+.msgCircle:hover {
+  cursor: pointer;
+}
